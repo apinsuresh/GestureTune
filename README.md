@@ -1,11 +1,11 @@
 # GestureTune
 A gesture-controlled music player using Python, MediaPipe, OpenCV, and Pygame. Activate gesture mode by pointing at an on-screen circle. Control music with hand gestures like thumbs-up (play) or open palm (stop). Prevents false triggers with a 10-second active window and visual feedback.
 
-#🔊 Gesture-Controlled Music Player
+# 🔊 Gesture-Controlled Music Player
 
 🎵Control your music touch-free using hand gestures powered by MediaPipe and OpenCV. This project allows you to play, pause, skip, and stop audio tracks by performing simple hand gestures in front of your webcam.
 
-#💡 Features
+# 💡 Features
 👋 Right-hand Thumbs Up → Play music
 
 ✋ Left-hand Open Palm → Stop music
@@ -16,7 +16,7 @@ A gesture-controlled music player using Python, MediaPipe, OpenCV, and Pygame. A
 
 ⏱️ Prevents accidental triggers with an interactive activation area
 
-#🛠️ Built With
+# 🛠️ Built With
 Python
 
 MediaPipe (Hand Tracking)
@@ -27,7 +27,7 @@ Pygame (Audio Playback)
 
 Tkinter (Audio File Selection)
 
-#📦 Use Cases
+# 📦 Use Cases
 Hands-free control while working
 
 Music control during workouts
